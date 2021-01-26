@@ -1,0 +1,22 @@
+{
+  "name": "suprbot",
+  "version": "1.0.0",
+  "description": "A bot able to buy the desired product in 5 seconds",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoCaulfield/suprBot.git"
+  },
+  "author": "Hugo Caulfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HugoCaulfield/suprBot/issues"
+  },
+  "homepage": "https://github.com/HugoCaulfield/suprBot#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
